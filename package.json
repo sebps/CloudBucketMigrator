@@ -1,7 +1,7 @@
 {
   "name": "cloud-bucket-migrator",
-  "version": "1.0.0",
-  "description": "A light library to migrate cloud buckets.",
+  "version": "1.0.2",
+  "description": "A lightweight library to migrate cloud buckets.",
   "main": "index.js",
   "scripts": {
     "test": "npm install && mocha"
