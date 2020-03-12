@@ -34,7 +34,7 @@ $ npm install cloud-bucket-migrator
 
 ## Loading the module
 ```js
-const cloudBucketMigrator = require('bucket-migrator');
+const cloudBucketMigrator = require('cloud-bucket-migrator');
 ```
 
 ## Common Usage
