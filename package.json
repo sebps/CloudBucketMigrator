@@ -8,7 +8,7 @@
   },
   "author": "sebps",
   "license": "ISC",
-  "homepage": "https://github.com/sebpsdev/cloud-bucket-migrator",
+  "homepage": "https://github.com/sebps/cloud-bucket-migrator",
   "dependencies": {
     "aws-sdk": "^2.635.0",
     "cli-progress": "^3.6.0"
