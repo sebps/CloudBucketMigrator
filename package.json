@@ -1,13 +1,14 @@
 {
   "name": "cloud-bucket-migrator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight library to migrate cloud buckets.",
   "main": "index.js",
   "scripts": {
     "test": "npm install && mocha"
   },
-  "author": "sebpsdev",
+  "author": "sebps",
   "license": "ISC",
+  "homepage": "https://github.com/sebpsdev/cloud-bucket-migrator",
   "dependencies": {
     "aws-sdk": "^2.635.0",
     "cli-progress": "^3.6.0"
